@@ -9,7 +9,7 @@ Currently, static builds for all languages ​​(pnpm deploycom NEXT_PUBLIC_STA
 
 ## Technologies
 
-  * React + vite
+  * Next.JS
   * Node.js
   * Pnpm
   * Typscript
