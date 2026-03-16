@@ -2,10 +2,9 @@
 
 
 
-## DESCRIPTION 
+## Problem
 
-Atualmente, as compilações estáticas de todos os idiomas ( pnpm deploycom NEXT_PUBLIC_STATIC_EXPORT_LOCALE=true) ocupam dezenas de gigabytes e levam mais de 20 minutos para serem compiladas pela CI.
-
+Currently, static builds for all languages ​​(pnpm deploycom NEXT_PUBLIC_STATIC_EXPORT_LOCALE=true) occupy tens of gigabytes and take more than 20 minutes to be compiled by CI.
 
 
 ## Technologies
