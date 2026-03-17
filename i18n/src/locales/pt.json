@@ -1,0 +1,10 @@
+{
+    "home": {
+        "title": "Para começar, edite o arquivo page.tsx.",
+        "description": "Procurando um ponto de partida ou mais instruções?",
+        "templates": "Templates",
+        "learning": "Centro de Aprendizado",
+        "deploy": "Fazer Deploy",
+        "documentation": "Documentação"
+    }
+}

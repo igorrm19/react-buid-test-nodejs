@@ -1,0 +1,10 @@
+{
+    "home": {
+        "title": "Benvenuto in Next.js",
+        "description": "Impara a costruire con Next.js",
+        "templates": "Modelli",
+        "learning": "Centro di apprendimento",
+        "deploy": "Distribuisci",
+        "documentation": "Documentazione"
+    }
+}
