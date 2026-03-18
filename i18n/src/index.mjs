@@ -3,7 +3,8 @@ import en from "./locales/en.json";
 
 const messages = {
     pt,
-    en
+    en,
+    it
 };
 
 export function getMessages(locale) {
